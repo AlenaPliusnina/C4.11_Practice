@@ -1,7 +1,8 @@
 <template>
   <div class="container">
     <div class="col-sm-10">
-      <h1 class="d-flex justify-content-center mt-4">Задачи</h1>
+      <h1 class="d-flex justify-content-center mt-4">
+      Задачи: {{taskCompleted + taskNotCompleted}}</h1>
       <confirmation :message="confirmationMessage"
       v-if="showConfirmation" @showAlert="show_alert"></confirmation>
 
