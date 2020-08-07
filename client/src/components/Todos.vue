@@ -235,7 +235,6 @@ export default {
     checkTodo(requestData) {
       let count = 0;
       for (let i = 0; i < localStorage.length; i += 1) {
-        console.log(localStorage.key(i));
         if (requestData.uid === localStorage.key(i)) {
           count += 1;
         }
@@ -254,6 +253,7 @@ export default {
     confirmation: Confirmation,
   },
   created() {
+    localStorage.setItem('id', 0);
     this.getTodos();
   },
 };
