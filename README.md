@@ -38,6 +38,11 @@
 
 ![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_5.png)
 
+
 ![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_6.png)
 
+
 ![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_7.png)
+
+
+![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_8.png)
