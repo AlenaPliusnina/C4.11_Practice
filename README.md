@@ -26,7 +26,6 @@
 
 2. При нажатии на кнопку добавить задачу появляется форма, в которой можно ввсести название задачи и отметить выполнена она или нет.
 
-|               |               |
 | ------------- | ------------- | 
 | ![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_2.png) | ![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_3.png) |
 
