@@ -1,6 +1,6 @@
 # Task tracker web-app / Веб-приложения для создания списка задач
 
-    Vue.js, localstorage, bootstrap.
+    Vue.js, Localstorage, Bootstrap
 
 Чтобы запустить приложение:
 
