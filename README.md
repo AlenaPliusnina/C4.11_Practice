@@ -36,13 +36,13 @@
 
 4. Задачу можно обновить или удалить из списка. Каждый раз при изменении состояния задачи на клавном экране появляется алерт с сообщением об изменениях.
 
-![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_5.png)
+| ![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_5.png) |
 
 
-![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_6.png)
+| ![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_6.png) |
 
 
-![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_7.png)
+| ![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_7.png) |
 
 
-![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_8.png)
+| ![Task tracker screenshot_1](https://github.com/AlenaPliusnina/C4.11_Practice/blob/master/screenshots/screen_8.png) |
